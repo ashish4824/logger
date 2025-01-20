@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leka-Workshop/Express-APIvantage.git"
+    "url": "git+https://github.com/ashish4824/logger.git"
   },
   "author": "Mirza Leka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Leka-Workshop/Express-APIvantage/issues"
+    "url": "https://github.com/ashish4824/logger/issues"
   },
-  "homepage": "https://github.com/Leka-Workshop/Express-APIvantage#readme",
+  "homepage": "https://github.com/ashish4824/logger#readme",
   "dependencies": {
     "await-to-js": "^3.0.0",
     "class-transformer": "^0.5.1",
